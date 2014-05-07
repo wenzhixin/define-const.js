@@ -8,7 +8,7 @@ All browser.
 
 ## HOW TO USE:
 
-```js
+```
 <script src="define-const.js"></script>
 <script>
 var Const = defineConst({
@@ -22,7 +22,7 @@ Const.MAX = 20000;
 Const.MIN = -20000;
 
 alert(Const.PI); // 3.14
-alert(Const.MAX); // 20000
-alert(Const.MIN); // -20000
+alert(Const.MAX); // 10000
+alert(Const.MIN); // -10000
 </script>
 ```
